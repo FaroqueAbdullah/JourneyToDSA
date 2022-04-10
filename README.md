@@ -2,8 +2,8 @@
 
 ### Data Structures
 
-1. [String](./01-DS-String/README.md)
-2. [Array](./02-DS-Array/README.md)
+1. [String](./01-DS-String)
+2. [Array](./02-DS-Array)
 3. Linked List
 4. Stack
 5. Queue
