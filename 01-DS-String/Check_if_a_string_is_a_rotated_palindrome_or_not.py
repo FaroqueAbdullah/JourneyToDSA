@@ -1,7 +1,10 @@
+# check if the string is palindrome or not
 def isPalindrome(string, low, high):
 
   return low >= high or ( string[low] == string[high] and isPalindrome(string, low + 1, high - 1) )
 
+
+# rotate image sequecely
 def isRotatePalindrome(string):
   n = len(string)
 
